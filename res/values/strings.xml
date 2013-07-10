@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">TestFileUpload</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_html5_web_view">HTML5WebView</string>
+    <string name="hello">Hello World, TestHTML5WebView!</string>
+    <string name="loading_video">Loading video</string>
+
+</resources>

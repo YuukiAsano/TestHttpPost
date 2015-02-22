@@ -1,42 +1,32 @@
 [
   {
-  "fileName": "Anime.xcassets",
-  "imageURL": "http://hoge.com"
+  "fileName": "Images.xcassets",
+  "imageURL": "http://hoge.com",
+  "remoteZipURL": "https://raw.githubusercontent.com/yuuki1224/TestHttpPost/master/Images.xcassets.zip"
   },
   {
-  "fileName": "SNS.xcassets",
-  "imageURL": "http://hoge.com"
+  "fileName": "TestImages1.xcassets",
+  "imageURL": "http://hoge.com",
+  "remoteZipURL": "https://raw.githubusercontent.com/yuuki1224/TestHttpPost/master/TestImages1.xcassets.zip"
   },
   {
-  "fileName": "Vehicle.xcassets",
-  "imageURL": "http://hoge.com"
+  "fileName": "TestImages2.xcassets",
+  "imageURL": "http://hoge.com",
+  "remoteZipURL": "https://raw.githubusercontent.com/yuuki1224/TestHttpPost/master/TestImages2.xcassets.zip"
   },
   {
-  "fileName": "Shop.xcassets",
-  "imageURL": "http://hoge.com"
+  "fileName": "TestImages3.xcassets",
+  "imageURL": "http://hoge.com",
+  "remoteZipURL": "https://raw.githubusercontent.com/yuuki1224/TestHttpPost/master/TestImages3.xcassets.zip"
   },
   {
-  "fileName": "People.xcassets",
-  "imageURL": "http://hoge.com"
+  "fileName": "TestImages4.xcassets",
+  "imageURL": "http://hoge.com",
+  "remoteZipURL": "https://raw.githubusercontent.com/yuuki1224/TestHttpPost/master/TestImages4.xcassets.zip"
   },
   {
-  "fileName": "Food.xcassets",
-  "imageURL": "http://hoge.com"
-  },
-  {
-  "fileName": "Movie.xcassets",
-  "imageURL": "http://hoge.com"
-  },
-  {
-  "fileName": "JapaneseTradition.xcassets",
-  "imageURL": "http://hoge.com"
-  },
-  {
-  "fileName": "Business",
-  "imageURL": "http://hoge.com"
-  },
-  {
-  "fileName": "Programming",
-  "imageURL": "http://hoge.com"
+  "fileName": "TestImages5.xcassets",
+  "imageURL": "http://hoge.com",
+  "remoteZipURL": "https://raw.githubusercontent.com/yuuki1224/TestHttpPost/master/TestImages5.xcassets.zip"
   }
 ]

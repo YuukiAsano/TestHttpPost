@@ -1,0 +1,42 @@
+[
+  {
+  "fileName": "Anime.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "SNS.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "Vehicle.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "Shop.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "People.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "Food.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "Movie.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "JapaneseTradition.xcassets",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "Business",
+  "imageURL": "http://hoge.com"
+  },
+  {
+  "fileName": "Programming",
+  "imageURL": "http://hoge.com"
+  }
+]
